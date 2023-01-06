@@ -1,8 +1,9 @@
+import Login from "./pages/Login/Login";
 
 function App() {
   return (
     <div className="App">
-      Chizoba Victory
+      <Login />
     </div>
   );
 }
